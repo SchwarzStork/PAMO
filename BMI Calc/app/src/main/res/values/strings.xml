@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_1">Obese Class 1(Moderately Obese)</string>
+    <string name="obese_class_2">Obese Class 2(Severely Obese)</string>
+    <string name="obese_class_3">Obese Class 3(Very Severely Obese)</string>
+    <string name="calculateBMI">Calculate BMI</string>
+</resources>
