@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+
+    <!-- Labels  -->
+    <string name="weight_label">Waga</string>
+    <string name="height_label">Wzrost</string>
+    <string name="age_label">Wiek</string>
+    <string name="gender_label">Płeć</string>
+    <string name="result_label">Wynik</string>
+
+    <!-- Labels  -->
+    <string name="calculate_button">Oblicz</string>
+
+    <!-- Warnings-->
+    <string name="data_warning">Wprowadź wszystkie dane!</string>
+    <!-- BMI Range Strings  -->
+    <string name="under_16">Niedowaga 3 stopnia</string>
+    <string name="bmi_16_to_17">Niedowaga 2 stopnia</string>
+    <string name="bmi_17_to_18_and_half">Niedowaga 1 stopnia</string>
+    <string name="bmi_18_and_half_to_25">BMI w normie</string>
+    <string name="bmi_25_to_30">Nadwaga</string>
+    <string name="bmi_30_to_35">Otyłość 1 stopnia</string>
+    <string name="bmi_35_to_40">Otyłość 2 stopnia</string>
+    <string name="more_than_40">Otyłość 3 stopnia</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="hov_many_calories_text">Zapotrzebowanie kaloryczne: </string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="BMI_button">BMI Kalkulator</string>
+    <string name="CoronaQuiz">Quiz Koronawirusowy</string>
+    <string name="CaloriesActivity">Oblicz zapotrzebowanie kaloryczne</string>
+    <string name="WykresCorona">Wykres zachorowań</string>
+
+
+    <string name="start_Quiz">Zaczynajmy!</string>
+    <string name="points">Twój wynik to:</string>
+</resources>
